@@ -1,0 +1,24 @@
+# Source: ESM4, Fig. S2 (digitised) of Suresh P, Kins J, Levkovskyy L, et al. (2026) Moving beyond 5-HT2A: language models map neurotransmitter receptors to experiential semantics. Psychopharmacology. https://doi.org/10.1007/s00213-026-07170-0
+# Values extracted by extract.py; see README.md.
+drug,LC1,LC2,LC3
+MEM,-5.2,0.99,-0.24
+DOET,-5.4,-0.05,0.39
+DiPT,-3.86,0.23,0.46
+DOM,-3.78,-0.53,0.25
+2C-B-fly,-4.71,-0.1,-0.18
+5-MeO-MiPT,-3.26,-0.79,-0.24
+DOI,-2.61,-0.19,-0.35
+TMA-2,-2.83,-0.05,0.17
+MDA,-2.84,-1.28,0.02
+DOB,-2.2,-0.66,-0.81
+5-MeO-DiPT,-1.97,-1.51,-0.33
+5-MeO-DMT,-0.82,0.01,0.85
+2C-B,-0.43,-0.69,0.23
+DPT,-0.21,-0.01,0.81
+2C-T-2,-2.12,-1.42,-0.16
+mescaline,-1.16,0.55,0.09
+DMT,1.31,2.07,1.48
+2C-E,1.25,-0.14,-0.18
+LSD,2.51,1.4,-1.25
+MDMA,-0.15,-2.46,-1.17
+psilocin,2.1,0.82,-0.9

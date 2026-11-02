@@ -1,0 +1,22 @@
+# Source: ESM2, Table S2 of Suresh P, Kins J, Levkovskyy L, et al. (2026) Moving beyond 5-HT2A: language models map neurotransmitter receptors to experiential semantics. Psychopharmacology. https://doi.org/10.1007/s00213-026-07170-0; word frequencies from Dave H (2018) FrequencyWords: OpenSubtitles 2018 English word counts. https://github.com/hermitdave/FrequencyWords (CC BY-SA 4.0)
+# Values extracted by extract.py; see README.md.
+component,llm_label_plus,n_words_plus,median_log10_freq_plus,n_not_in_frequency_list_plus,page_metadata_plus,llm_label_minus,n_words_minus,median_log10_freq_minus,n_not_in_frequency_list_minus,page_metadata_minus,auc
+1,Visual Complexity,153,3.392,0,False,Physical Stimulation and Social Interaction,153,3.574,0,False,0.4271
+2,Perceptual Distortion,153,5.219,0,False,Physical Sensation and Emotional Response,153,3.034,2,False,0.962
+3,Escapade/Adventure,153,4.38,0,False,Spiritual Sensuality,153,3.6,2,True,0.77
+4,Cognitive Disruption,153,3.491,0,False,Physical Intimacy and Affection,153,3.53,0,False,0.4575
+5,Spiritual Revelation,153,3.614,4,True,Sensory Amplification,153,3.26,2,False,0.6267
+6,Emotional Self-Reflection in Nature,153,3.812,0,False,Substance Consumption and Sensory Alteration,153,3.331,0,False,0.6611
+7,Physical Discomfort and Distress,153,3.501,0,False,Social Interaction and Optimism,153,3.519,0,False,0.4773
+8,Surreal Imagery,153,3.82,0,False,Emotional Turbulence,153,3.49,0,False,0.6078
+9,Interdimensional Communication,153,3.714,1,True,Intense Emotional Release,153,3.606,0,False,0.5362
+10,Physical Distress and Panic,153,3.56,1,False,Recreational Entertainment,153,3.677,0,False,0.4655
+11,Visual Distortions and Interpretations,153,3.613,0,False,Auditory and Musical Engagement,153,3.533,0,False,0.5512
+12,Emotional Turmoil and Self-Reflection,153,3.468,0,False,Auditory Sensations,153,3.767,1,True,0.4074
+13,Sensory Disorientation,153,3.906,0,False,Sensory Perception & Communication,153,3.597,0,False,0.6126
+14,Emotional Turbulence,153,3.608,0,False,Auditory Sensations,153,3.752,0,False,0.4375
+15,Outdoor Refreshment and Relaxation,153,3.669,0,False,Media Interaction and Absorption,153,3.592,1,False,0.5411
+16,Confinement and Distortion,153,3.63,0,False,Romantic Intimacy,153,3.807,0,False,0.4531
+17,Social Interaction and Communication,153,3.714,0,False,Overwhelming Fear and Wonder,153,3.459,0,False,0.5769
+18,Exploration of Consciousness,153,3.753,5,True,Embodied Cognitive Purification,153,3.769,0,False,0.4924
+19,Overwhelming Sensory Overload,180,3.652,0,False,Physical Interaction and Sensory Perception,153,3.483,0,False,0.5592

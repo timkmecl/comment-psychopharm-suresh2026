@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+openpyxl
+pillow
+pymupdf
+pytesseract
+cairosvg   # optional, for PNG figures

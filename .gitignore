@@ -1,0 +1,6 @@
+# source files are not redistributed (see sources/README.md)
+sources/*
+!sources/README.md
+# ESM2 word lists and their frequencies, written by extract.py
+local/
+__pycache__/

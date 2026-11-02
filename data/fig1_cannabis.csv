@@ -1,0 +1,24 @@
+# Source: Fig. 1 (cannabis row, digitised) and Table 1 of Suresh P, Kins J, Levkovskyy L, et al. (2026) Moving beyond 5-HT2A: language models map neurotransmitter receptors to experiential semantics. Psychopharmacology. https://doi.org/10.1007/s00213-026-07170-0
+# Values extracted by extract.py; see README.md.
+drug,cannabis_pct,n_reports,n_cannabis_negative
+MEM,0.0,27,27
+DOET,0.0,41,41
+DiPT,16.9,59,49
+DOM,12.0,92,81
+2C-B-fly,24.1,29,22
+5-MeO-MiPT,20.8,125,99
+DOI,23.7,38,29
+TMA-2,22.9,35,27
+MDA,17.5,97,80
+DOB,19.1,47,38
+5-MeO-DiPT,29.1,258,183
+5-MeO-DMT,13.4,320,277
+2C-B,29.0,255,181
+DPT,12.4,177,155
+2C-T-2,25.0,112,84
+mescaline,22.1,68,53
+DMT,25.4,619,462
+2C-E,30.4,346,241
+LSD,21.6,477,374
+MDMA,31.0,636,439
+psilocin,33.2,638,426
