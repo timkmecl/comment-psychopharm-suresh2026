@@ -1,8 +1,18 @@
 # Comment on Suresh et al. (2026): code and data
 
-Code and data for the comment *"Comment on Suresh et al. (2026): effective sample size and validation of
-receptor–semantic mappings"* (Tim Kmecl). Every number in the comment is computed from values published in
+Code and data for the comment *"Comment on Suresh et al. (2026): Drug-level sample size, validation and
+embedding confounds in receptor–semantic mappings"* (Tim Kmecl). Every number in the comment is computed from values published in
 the article below and its supplementary material; no report-level data were used.
+
+**Preprint:** https://doi.org/10.31234/osf.io/5gykw_v1 (PsyArXiv). Submitted to *Psychopharmacology*
+(November 2026); not yet peer reviewed.
+
+To cite the comment:
+
+> Kmecl T (2026) Comment on Suresh et al. (2026): Drug-level sample size, validation and embedding confounds
+> in receptor–semantic mappings. *PsyArXiv*. https://doi.org/10.31234/osf.io/5gykw_v1
+
+The comment concerns:
 
 > Suresh P, Kins J, Levkovskyy L, Thieme A, Wren P, Ray T, Barrett FS, Carhart-Harris R, Bzdok D (2026)
 > Moving beyond 5-HT2A: language models map neurotransmitter receptors to experiential semantics.
